@@ -14,6 +14,6 @@ setup(name='test_mark_0001',
       author_email='mregine@betaxanalytics.com',
       url='https://github.com/markregine/test_mark_0001',
       classifiers=['Programming Language :: Python :: 3.5'],
-      install_requires=['pandas>=0.24.0',
+      install_requires=['pandas',
                         'numpy'],
       )
