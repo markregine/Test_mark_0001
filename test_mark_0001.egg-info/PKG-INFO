@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: test-mark-0001
+Version: 0.0.4
+Summary: Test to build a modulule in PyPi
+Home-page: https://github.com/markregine/test_mark_0001
+Author: Mark Regine, Ph.D.
+Author-email: mregine@betaxanalytics.com
+License: MIT
+Description: UNKNOWN
+Keywords: each word in a different seperated by a space not a comma
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.5
